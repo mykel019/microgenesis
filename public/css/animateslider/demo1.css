@@ -1,0 +1,65 @@
+ .anim-slide h1
+  {
+    color:#225A86;
+    /*background-color: #fff;*/
+    background-color: transparent;
+    font-size: 50px;
+  }
+  .anim-slide h2
+  {
+    color: #fff;
+    font-size: 35px;
+  }
+  .anim-slide h3
+  {
+    color: #fff;
+    font-size: 30px;
+  }
+  .anim-slide h4
+  {
+    color: #fff;
+    font-size: 25px;
+  }
+
+
+/*1st Slide*/
+  .anim-slide h1#datacenter{text-shadow: -1px 1px 0px;padding: 6px;width:100%;}
+  .anim-slide h2#huwaei{ width:10%;top: 22%;left: 20%;}
+  .anim-slide h2#hp{width:10%;top: 22%;left: 30%;}
+  .anim-slide h2#cisco{width: 10%;top: 22%;left: 40%;}
+  .anim-slide h2#lenovo{width: 10%;top: 22%;left: 50%;}
+  .anim-slide h2#vmware{width: 10%;top: 22%;left: 60%;}
+  .anim-slide h2#azure{width: 10%;top: 22%;left: 70%;}
+
+
+/*2nd Slide*/
+  .anim-slide h1#infosec{text-shadow: -1px 1px 0px;padding: 6px;width: 100%;}
+  .anim-slide h2#sophos{top: 18%;left: 10%;}
+  .anim-slide h2#paloalto{top: 18%;left: 30%;}
+  .anim-slide h2#solarwinds{top: 18%;left: 50%;}
+  .anim-slide h2#kaseya{top:18%;left: 70%;}
+
+
+/*3rd Slide*/
+  .anim-slide h1#network{text-shadow: -1px 1px 0px;padding: 6px;width: 100%;}
+  .anim-slide h2#cisco2{top: 31%;left: 20%;}
+  .anim-slide h2#huwaei2{top: 31%;left: 45%;}
+  .anim-slide h2#hp2{top: 31%;left: 70%;}
+  /*.anim-slide h2#rotateLeft{top: 50%;left: 80%;}*/
+
+
+  .anim-slide img#css3{left: 35%;top: 4%;}
+  .anim-slide img#html5{left: 52%;top: -1%;}
+  .anim-slide img#jquery{top: 60%;left: 41%;}
+  .anim-slide img#modernizr{width:260px;top: 75%;left: 20%;}
+  .anim-slide h2#animatecss{top: 69%;left: 60%;color: #f35626;}
+
+  
+  div#demo{text-align: center;}
+  div#demo>a{display:inline-block;text-decoration: none;}
+  div#demo>a>h4{padding: 5px 8px;margin: 20px;background-color: #225A86;color: #fff;box-shadow:inset 0 -2px 0 rgba(0,0,0,0.15);}
+  p#credits{z-index:-1;position: fixed;bottom: 0px;width: 100%;text-align: center;font-size: 14px;}
+  p#credits>a{font-weight: bold;color: #999;text-decoration: none;}
+  img#github-logo{z-index:-1;position: fixed;bottom: -20px;right: 2%;opacity: 0.4;}
+
+
